@@ -65,18 +65,4 @@
 
 ---
 
-## 🏆 Awards 🥇
-
-- 🎖️ **Research Scholarship** *(2019 - 2021)* — Satbayev University  
-- 🏆 **Best Master Thesis Award** *(2021)* — Satbayev University  
-
----
-
-## 🔍 Reviewer Service 🖋️
-
-- **Conferences**: SIGIR, LREC-COLING, WACV, EMNLP  
-- **Journals**: Pattern Recognition Letters, Heliyon  
-
----
-
 ⭐️ *Feel free to fork or star my repositories to support my work!* 🚀
