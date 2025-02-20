@@ -16,16 +16,6 @@
 
 ---
 
-## 🎓 Education 🎯
-
-- 🧠 **M.Sc. in Computer Science** *(2021)* - **Satbayev University**, Kazakhstan 🇰🇿  
-  - Thesis: *"Attention-based Fully Gated CNN-BGRU for Russian Handwritten Text"*  
-  - Supervisor: *Prof. Daniyar Nurseitov*  
-- 🎓 **M.Sc. in Computer Science (Course-Based)** *(2017)* - **Assiut University**, Egypt 🇪🇬  
-- 🎓 **B.Sc. in Computer Science** *(2015)* - **Assiut University**, Egypt 🇪🇬  
-
----
-
 ## 🔍 Research Interests 🔬
 
 - **Natural Language Processing (NLP)**  
@@ -52,14 +42,6 @@
 
 ---
 
-## 🗂️ Datasets 📊
-
-- 🖼️ **TNCR**: Table Net Detection and Classification Dataset [[Link](https://github.com/abdoelsayed2016/TNCR_Dataset)]  
-- ✍️ **HKR**: Handwritten Kazakh and Russian Database [[Link](https://github.com/abdoelsayed2016/HKR_Dataset)]  
-- 🧾 **AMuRD**: Annotated Multilingual Receipts Dataset [[Link](https://github.com/Update-For-Integrated-Business-AI/AMuRD)]  
-- 📑 **KOHTD**: Kazakh Offline Handwritten Text Dataset [[Link](https://github.com/abdoelsayed2016/KOHTD)]  
-
----
 
 ## 📚 Selected Publications 📖
 
@@ -80,24 +62,6 @@
 
 👉 [See Full List](https://scholar.google.com/citations?user=uoXhF1QAAAAJ&hl=en)
 
----
-
-## 👔 Experience 👷‍♂️
-
-- **Research Assistant** *(Dec. 2022 - Present)*  
-  Digital Science Center (DiSC), University of Innsbruck 🇦🇹  
-
-- **Machine Learning Engineer** *(Aug. 2021 - Present)*  
-  DISCO AI, Cairo, Egypt 🇪🇬 *(Part-Time)*  
-
-- **ML Researcher** *(Jan. 2022 - Dec. 2022)*  
-  Università Ca' Foscari, Venezia, Italy 🇮🇹  
-
-- **ML Engineer** *(Aug. 2021 - Jun. 2022)*  
-  KMG Engineering, Kazakhstan 🇰🇿  
-
-- **Assistant Lecturer** *(2015 - 2019)*  
-  Assiut University, Egypt 🇪🇬  
 
 ---
 
@@ -112,12 +76,6 @@
 
 - **Conferences**: SIGIR, LREC-COLING, WACV, EMNLP  
 - **Journals**: Pattern Recognition Letters, Heliyon  
-
----
-
-## 🌐 Connect with Me 🌏
-
-💌 [Email](mailto:abdoelsayed2016@gmail.com) | 🌐 [Website](https://abdoelsayed2016.github.io/) | 📖 [Google Scholar](https://scholar.google.com/citations?user=uoXhF1QAAAAJ&hl=en) | 🐙 [GitHub](https://github.com/abdoelsayed2016) | 💼 [LinkedIn](https://www.linkedin.com/in/abdrahman-abdallah-b61030122/) 
 
 ---
 
